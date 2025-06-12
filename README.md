@@ -1,5 +1,10 @@
 # Creating a Login Page with `HTML`, `JavaScript`, and `CSS`
 
+![Repo Size](https://img.shields.io/github/repo-size/RockHead07/1st-time-Making-Login-Page)
+![Last Commit](https://img.shields.io/github/last-commit/RockHead07/1st-time-Making-Login-Page)
+![License](https://img.shields.io/github/license/RockHead07/1st-time-Making-Login-Page)
+![Language](https://img.shields.io/github/languages/top/RockHead07/1st-time-Making-Login-Page)
+
 >[!caution]
 >**⚠️I do not own any of this content⚠️**
 >This content is not originally mine. Shoutout to the <ins>**@AsmrProg**</ins> YouTube channel — here’s the link to the video: https://www.youtube.com/watch?v=PlpM2LJWu-s
