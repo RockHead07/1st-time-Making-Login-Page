@@ -4,6 +4,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/RockHead07/1st-time-Making-Login-Page)
 ![License](https://img.shields.io/github/license/RockHead07/1st-time-Making-Login-Page)
 ![Language](https://img.shields.io/github/languages/top/RockHead07/1st-time-Making-Login-Page)
+![Language](https://img.shields.io/github/languages/top/RockHead07/1st-time-Making-Login-Page)
+![Language](https://img.shields.io/github/languages/top/RockHead07/1st-time-Making-Login-Page)
 
 >[!caution]
 >**⚠️I do not own any of this content⚠️**
