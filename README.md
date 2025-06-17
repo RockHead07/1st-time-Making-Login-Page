@@ -1,10 +1,11 @@
 # Creating a Login Page with `HTML`, `JavaScript`, and `CSS`
 
+<div align="center">
 
 ![Repo Size](https://img.shields.io/github/repo-size/RockHead07/1st-time-Making-Login-Page)
 ![Last Commit](https://img.shields.io/github/last-commit/RockHead07/1st-time-Making-Login-Page)
-![License](https://img.shields.io/github/license/RockHead07/1st-time-Making-Login-Page)
-![Language](https://img.shields.io/github/languages/top/RockHead07/1st-time-Making-Login-Page)
+
+</div>
 
 > [!IMPORTANT]
 > ⚠️ **Disclaimer**  
