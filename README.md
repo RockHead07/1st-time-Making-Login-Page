@@ -1,4 +1,8 @@
-# Creating a Login Page with `HTML`, `JavaScript`, and `CSS`
+<h1 align="center"> 
+  
+Creating a Login Page with `HTML`, `JavaScript`, and `CSS` 
+
+</h1>
 
 <div align="center">
 
@@ -8,7 +12,7 @@
 </div>
 
 > [!IMPORTANT]
-> ⚠️ **Disclaimer**  
+> 📍**Disclaimer**  
 > I do not own any of the original content used as a reference in this project.  
 > Credit goes to the amazing **[@AsmrProg](https://www.youtube.com/@AsmrProg)** YouTube channel.  
 > Watch the tutorial here: [https://www.youtube.com/watch?v=PlpM2LJWu-s](https://www.youtube.com/watch?v=PlpM2LJWu-s)
@@ -23,4 +27,4 @@ I uploaded this to my GitHub to showcase my first attempt at making a login page
 #
 
 >[!WARNING]
->**⚠️The page is not yet responsive on all devices** — it currently looks best on desktop view.
+>**The page is not yet responsive on all devices** — it currently looks best on desktop view.
